@@ -21,7 +21,7 @@
 * код ответа соответствует 200;
 * результат создания папки — папка появилась в списке файлов.
 
-### Ответ 1
+### Ответ 
 
 ![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/088b67a9-f74f-4fe5-8b2e-eec142d33acc)
 ![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/034dd627-6603-439d-ad21-220ec0a374dd)
