@@ -126,8 +126,8 @@ if __name__ == '__main__':
 
 ### Ответ
 
-![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/27650e40-0213-412f-a967-c43ddb35a1c2)
-![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/f106bb06-4dd5-4a91-a86f-2cd1e946633c)
+![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/54fe2b2f-0f59-48b6-8d85-e1eb1e8c9188)
+![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/bf1ee370-8706-4cd3-8208-590eea786bd6)
 
 
 ---
