@@ -17,6 +17,7 @@
 ![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/088b67a9-f74f-4fe5-8b2e-eec142d33acc)
 ![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/034dd627-6603-439d-ad21-220ec0a374dd)
 ![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/cbc76e74-30bb-47d4-bccf-c87adae59c26)
+![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/267f3a3e-02eb-49d8-b8cd-438e134d8b00)
 
 
 ### Задача 2. Автотест API Яндекса
