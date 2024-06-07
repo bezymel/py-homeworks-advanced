@@ -132,6 +132,10 @@ if __name__ == '__main__':
 ![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/8951fa2e-f7b9-4306-b1b4-a8bc05c35dfe)
 ![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/074cdb35-31b2-4732-852a-27faa88fb657)
 ![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/d878c9f7-ee1b-4ac2-a208-c535696e9445)
+![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/ae252617-8f11-43b2-974f-498716db6dd0)
+![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/90d2b7fa-c4de-4222-8014-4147924b1238)
+![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/7133c5c6-2bce-439d-97e4-8bfd8443ec55)
+![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/d087d55a-8bee-441d-982b-c4c0086e91b4)
 
 
 ---
