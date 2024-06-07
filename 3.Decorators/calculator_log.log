@@ -1,0 +1,43 @@
+# Пример простого приложения для выполнения операций над числами
+import os
+from datetime import datetime
+
+# Определение логгера
+def logger(path):
+    def __logger(old_function):
+        def new_function(*args, **kwargs):
+            result = old_function(*args, **kwargs)
+            with open(path, 'a') as log_file:
+                log_file.write(f"{datetime.now()} - Вызов функции {old_function.__name__} с аргументами {args}, {kwargs}. Результат: {result}\n")
+            return result
+        return new_function
+    return __logger
+
+# Функции, над которыми будет производиться логгирование
+@logger('calculator_log.log')
+def add(x, y):
+    return x + y
+
+@logger('calculator_log.log')
+def subtract(x, y):
+    return x - y
+
+@logger('calculator_log.log')
+def multiply(x, y):
+    return x * y
+
+@logger('calculator_log.log')
+def divide(x, y):
+    return x / y if y != 0 else "Деление на ноль"
+
+# Основное исполнение
+if __name__ == '__main__':
+    result1 = add(5, 3)
+    result2 = subtract(10, 4)
+    result3 = multiply(7, 2)
+    result4 = divide(8, 0)
+
+    print(f"Результат сложения: {result1}")
+    print(f"Результат вычитания: {result2}")
+    print(f"Результат умножения: {result3}")
+    print(f"Результат деления: {result4}")
