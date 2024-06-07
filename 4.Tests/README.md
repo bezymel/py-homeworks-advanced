@@ -10,15 +10,7 @@
 
 1. Если у вас в функциях информация выводилась (print), то теперь её лучше возвращать (return), чтобы можно было протестировать.
 2. Input можно «замокать» с помощью ```unittest.mock.patch```. Если с этим будут проблемы, то лучше переписать функции так, чтобы данные приходили через параметры.
-
-
-### Ответ 1
-
-![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/088b67a9-f74f-4fe5-8b2e-eec142d33acc)
-![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/034dd627-6603-439d-ad21-220ec0a374dd)
-![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/cbc76e74-30bb-47d4-bccf-c87adae59c26)
-![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/267f3a3e-02eb-49d8-b8cd-438e134d8b00)
-
+   
 
 ### Задача 2. Автотест API Яндекса
 Проверим правильность работы Яндекс Диск REST API. Напишите тесты, проверяющие создание папки на Диске.  
@@ -29,7 +21,9 @@
 * код ответа соответствует 200;
 * результат создания папки — папка появилась в списке файлов.
 
-### Задача 3. Не обязательная
-Применив selenium, напишите unit-test для авторизации на Яндексе по url: https://passport.yandex.ru/auth/.
+### Ответ 1
 
-
+![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/088b67a9-f74f-4fe5-8b2e-eec142d33acc)
+![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/034dd627-6603-439d-ad21-220ec0a374dd)
+![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/cbc76e74-30bb-47d4-bccf-c87adae59c26)
+![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/267f3a3e-02eb-49d8-b8cd-438e134d8b00)
