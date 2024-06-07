@@ -33,8 +33,6 @@ from package.module import *
 ![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/56efb2f8-2fa1-4ac0-8624-3aee432444e7)
 ![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/e1d2dff6-0623-474f-b364-450eb91217b6)
 ![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/f93e67c8-a792-48b2-9b7e-279281ecff0b)
-![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/a115d9f9-f7a4-4804-a616-7480d45ff13a)
-![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/bd1e8e35-fd28-442a-a233-f2c69d9b2385)
 ![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/15d4904f-7989-4ea6-924c-a2373467eac2)
 
 
