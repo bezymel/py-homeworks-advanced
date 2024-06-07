@@ -81,6 +81,7 @@ if __name__ == '__main__':
 
 ![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/3c5bed80-cd7e-4d26-b456-014563fe4666)
 ![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/79a4905b-cef8-4667-a04f-a704d2b974af)
+![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/2192c600-abcb-49a8-8770-994e06c75671)
 
 
 ```
