@@ -128,6 +128,8 @@ if __name__ == '__main__':
 
 ![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/54fe2b2f-0f59-48b6-8d85-e1eb1e8c9188)
 ![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/bf1ee370-8706-4cd3-8208-590eea786bd6)
+![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/5d1f42f9-5321-40a5-b20a-897d6966e425)
+![image](https://github.com/bezymel/py-homeworks-advanced/assets/129361495/8951fa2e-f7b9-4306-b1b4-a8bc05c35dfe)
 
 
 ---
